@@ -755,13 +755,12 @@ header {
 /*ANIMATION STARTS*/
 
 .animation {
-/*    margin-top: 35px;*/
     position: relative;
-    top: 30px;
+    top: 10px;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 27vh;
+    height: 40vh;
     overflow: hidden;
 }
 
